@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+
 <h1 align="center">Hi 👋, I'm Nikhil Agrawal</h1>
 <h3 align="center">A passionate software developer India</h3>
 <img align="right" alt="Coding" width="400px" src="https://cdn.dribbble.com/users/1166566/screenshots/3549644/media/149863a22ab28b6f95e9857107efaea6.gif">
